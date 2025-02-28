@@ -1,4 +1,5 @@
 // sample output
+![image](https://github.com/user-attachments/assets/e88615fb-1994-407d-b677-7b9a423e59dd)
 
 Enter first name: Aidan
 Enter last name: Salagala
